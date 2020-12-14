@@ -1,5 +1,5 @@
 import React from "react";
-import { useStore } from "./makeStore";
+import { useStore } from "react-make-store";
 
 import { nameStore } from "./App";
 

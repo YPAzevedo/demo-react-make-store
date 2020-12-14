@@ -1,5 +1,5 @@
 import React from "react";
-import makeStore from "./makeStore";
+import makeStore from "react-make-store";
 
 import Age from "./Age";
 import Name from "./Name";

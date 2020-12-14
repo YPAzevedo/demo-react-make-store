@@ -1,5 +1,5 @@
 import React from "react";
-import { useDeriveFromSlice } from "./makeStore";
+import { useDeriveFromSlice } from "react-make-store";
 
 import { formStore } from "./App";
 
