@@ -1,2 +1,3 @@
-# demo-react-make-store
-Created with CodeSandbox
+# react-make-store 📦
+
+A state management library for React.
